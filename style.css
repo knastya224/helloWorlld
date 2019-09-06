@@ -1,0 +1,28 @@
+.cl1{
+	position: relative;
+	text-align: center;
+	color: green;
+}
+
+.text{
+	position: relative;
+	left: 3%;
+	width: 97%;
+}	
+
+*{
+	background: #d9f595;
+}
+
+img{
+	position: relative;
+	left: 30%;
+	width: 500px;
+}
+
+#a1{
+	position: relative;
+	left: 3%;
+	size: 25px;
+}
+
